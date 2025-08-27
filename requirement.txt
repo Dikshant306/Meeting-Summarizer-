@@ -1,0 +1,16 @@
+requests
+torch
+bitsandbytes
+transformers
+sentencepiece
+accelerate
+openai
+dotenv
+ipython
+langchain
+chromadb
+langchain_community
+gradio
+sentence_transformers
+hf_xet
+langchain-openai
